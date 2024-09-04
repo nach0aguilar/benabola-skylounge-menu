@@ -1,18 +1,14 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { FC } from "react";
+import "./App.css";
+import Footer from "./components/Footer";
 
-function App() {
-  const [count, setCount] = useState(0)
-
+const App: FC = () => {
   return (
     <>
-        <h1 className="text-3xl font-bold">
-          Hello Vite!
-        </h1>
+      <h1 className="text-3xl font-bold pb-5">Hello Vite!</h1>
+      <Footer />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
