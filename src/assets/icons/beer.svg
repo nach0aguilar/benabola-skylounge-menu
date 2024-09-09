@@ -1,0 +1,19 @@
+<svg width="30" height="30" viewBox="0 0 7.937 7.937" xmlns="http://www.w3.org/2000/svg">
+   <g transform="matrix(.1611 0 0 .1611 -20.35 -21.34)">
+      <path
+         style="fill:none;stroke:#9c6d01;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="M148.793 137.252h4.322l.53 14.124s3.793 3.474 3.793 6.947l-.529 21.669H145l-.53-21.756c0-3.386 3.794-6.86 3.794-6.86z" />
+      <path
+         style="mix-blend-mode:color-burn;fill:none;stroke:#9c6d01;stroke-width:2.45525;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M148.793 134.117h4.322" />
+      <path
+         style="mix-blend-mode:normal;fill:none;stroke:#9c6d01;stroke-width:2.45525;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M148.793 141.238h4.322" />
+      <path
+         style="mix-blend-mode:normal;fill:none;stroke:#9c6d01;stroke-width:2.64583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M148.793 150.763h4.322" />
+      <ellipse
+         style="fill:#9c6d01;fill-opacity:1;stroke:#c7ac6b;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         cx="150.954" cy="165.711" rx="4.502" ry="6.216" />
+   </g>
+</svg>

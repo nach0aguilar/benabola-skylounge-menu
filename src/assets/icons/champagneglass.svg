@@ -1,0 +1,10 @@
+<svg width="30" height="30" viewBox="0 0 7.937 7.937" xmlns="http://www.w3.org/2000/svg">
+   <path
+      style="fill:none;stroke:#9c6d01;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      d="M-27.65 145.03h5.297c5.297 11.294 2.644 26.578-2.666 26.513-5.274-.065-7.927-15.22-2.63-26.513zM-24.985 179.874V169.1M-29.237 180.025l8.545-.033"
+      transform="matrix(.16708 0 0 .16708 8.146 -23.187)" />
+   <path
+      style="fill:#9c6d01;fill-opacity:1;stroke:#c7ac6b;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+      d="M-26.618 170.625c-1.091-1.333-2.031-4.077-2.494-7.283-.228-1.576-.321-2.876-.344-4.8l-.02-1.587H-20.538v1.228c0 .676-.017 1.53-.037 1.899-.257 4.751-1.284 8.623-2.804 10.57l-.176.225-.018-.467c-.016-.422-.028-.492-.13-.727a1.479 1.479 0 0 0-.674-.745c-.22-.115-.264-.124-.608-.124-.349 0-.386.007-.607.128-.3.163-.522.408-.67.738-.105.238-.116.298-.133.727l-.018.467z"
+      transform="matrix(.16708 0 0 .16708 8.146 -23.187)" />
+</svg>
