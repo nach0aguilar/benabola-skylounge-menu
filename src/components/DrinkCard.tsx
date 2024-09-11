@@ -21,7 +21,8 @@ const DrinkCard: React.FC<DrinkCardProps> = ({ drink }) => {
         src={drink.img}
         alt={drink.name}
         className="w-30 h-52 object-cover"
-        style={{ width: '120px', height: '210px' }}
+        width="120px"
+        height="210px"
       />
 
       <div className="flex flex-col justify-between p-4">
