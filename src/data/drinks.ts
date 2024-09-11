@@ -1,4 +1,4 @@
-export interface Drink {
+export type Drink = {
     category: string;
     name: string;
     img: string;
