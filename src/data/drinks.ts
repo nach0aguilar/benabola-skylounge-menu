@@ -9,7 +9,7 @@ export interface Drink {
     highlighted: boolean;
 }
 
-export const drinks: Drink[] = [
+export const DRINKS: Drink[] = [
     // Vodka
     {
         category: "Vodka",

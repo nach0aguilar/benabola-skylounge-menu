@@ -1,5 +1,5 @@
 import React from "react";
-import { drinks } from "../data/drinks";
+import { DRINKS } from "../data/drinks";
 import { Drink } from "../data/drinks";
 import DrinkCard from "./DrinkCard";
 
@@ -12,7 +12,7 @@ function upperFirstLetter(word: string): string {
 }
 
 const DrinkList: React.FC<DrinkListProps> = ({ category }) => {
-    const filteredDrinks = drinks.filter((drink: Drink) =>
+    const filteredDrinks = DRINKS.filter((drink: Drink) =>
       drink.category.toLowerCase() === category.toLowerCase()
     );
   
