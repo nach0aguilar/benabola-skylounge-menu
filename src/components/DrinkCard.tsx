@@ -1,11 +1,11 @@
 import React from "react";
 import { Drink } from "../data/drinks";
 
-interface DrinkItemProps {
+interface DrinkCardProps {
     drink: Drink;
 }
 
-const DrinkCard: React.FC<DrinkItemProps> = ({ drink }) => {
+const DrinkCard: React.FC<DrinkCardProps> = ({ drink }) => {
   return (
     <div
       className={`flex bg-gradient-to-tr from-slate-900 to-slate-700 shadow-lg rounded-lg overflow-hidden max-w-md transition-transform transform ${
