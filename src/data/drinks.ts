@@ -1,7 +1,7 @@
 export interface Drink {
     category: string;
     name: string;
-    img?: string;
+    img: string;
     glassIcon?: string;
     glassPrice?: number;
     bottleIcon?: string;
