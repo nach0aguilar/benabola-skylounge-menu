@@ -1,0 +1,22 @@
+<svg width="30" height="30" viewBox="0 0 7.937 7.937" xmlns="http://www.w3.org/2000/svg">
+   <g transform="matrix(.95325 0 0 1.03263 -21.901 -197.29)">
+      <path
+         style="fill:none;stroke:#9c6d01;stroke-width:.519084;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M27.025 197.705v-2.262M25.963 197.745l2.123.003" />
+      <path
+         style="fill:#9c6d01;fill-opacity:1;stroke:#9c6d01;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m29.807 192.881-2.782 2.783-2.783-2.783z" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#9c6d01;stroke-width:.415267;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m27.992 193.417.757-1.032 1.079-.386" />
+      <circle
+         style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.212758;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         cx="26.987" cy="194.576" r=".322" />
+      <circle
+         style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.212758;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         cx="26.351" cy="194.064" r=".322" />
+      <circle
+         style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.212758;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         cx="27.136" cy="193.7" r=".322" />
+   </g>
+</svg>

@@ -1,11 +1,13 @@
-import { FC } from "react";
+import React from 'react';
 
-const Footer: FC = () => {
+const Footer: React.FC = () => {
   return (
-    <footer>
-      <p>This is a copyright claim</p>
+    <footer className="bg-slate-900 shadow-md py-4 px-6 flex justify-between items-center mt-10 h-20">
+      <div className="text-center flex-1">
+        <p>&copy; COPYRIGHT 2024 BENABOLA HOTEL & SUITES</p>
+      </div>
     </footer>
   );
 };
-
+  
 export default Footer;
