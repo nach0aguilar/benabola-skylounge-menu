@@ -1,11 +1,11 @@
 enum DrinkIcon {
-    BEER = "./src/assets/icons/beer.svg",
-    BOTTLE = "./src/assets/icons/bottle.svg",
-    CHAMPAGNE = "./src/assets/icons/champagneglass.svg",
-    COCKTAIL = "./src/assets/icons/cocktail.svg",
-    CUP = "./src/assets/icons/cup.svg",
-    GLASS = "./src/assets/icons/glass.svg",
-    WINE = "./src/assets/icons/wineglass.svg",
+    BEER = "icons/beer.svg",
+    BOTTLE = "icons/bottle.svg",
+    CHAMPAGNE = "icons/champagneglass.svg",
+    COCKTAIL = "icons/cocktail.svg",
+    CUP = "icons/cup.svg",
+    GLASS = "icons/glass.svg",
+    WINE = "icons/wineglass.svg",
 }
 
 export type Drink = {
