@@ -4,7 +4,7 @@ const Header: React.FC = () => {
   return (
     <header className="bg-gradient-to-r from-slate-900 to-slate-800 shadow-md py-4 px-6 flex justify-between items-center">
       <div className="flex items-center">
-        <img src="./src/assets/logo.png" alt="Logo" className="h-16" />
+        <img src="logo.png" alt="Logo" className="h-16" />
       </div>
 
       <div className="text-center flex-1">
