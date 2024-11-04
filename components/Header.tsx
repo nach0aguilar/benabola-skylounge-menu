@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Header: React.FC = () => {
   return (
@@ -8,11 +8,12 @@ const Header: React.FC = () => {
       </div>
 
       <div className="text-center flex-1">
-        <h1 className="text-3xl font-bold text-white tracking-widest">DRINKS</h1>
+        <h1 className="text-3xl font-bold text-white tracking-widest">
+          DRINKS
+        </h1>
       </div>
     </header>
   );
 };
 
 export default Header;
-
